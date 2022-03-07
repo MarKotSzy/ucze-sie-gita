@@ -1,1 +1,5 @@
 print ('hejka')
+print('hejka2')
+print('hejka3')
+print ('hejka4')
+print ('hejka55')
